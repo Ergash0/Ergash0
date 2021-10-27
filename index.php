@@ -1,6 +1,6 @@
 <html>
 <body>
-     <style>
+     <styl>
      .rihgtimg{
            float: right;
            marging: 7px 0 7px 7px;
