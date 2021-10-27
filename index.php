@@ -1,11 +1,24 @@
-<!DOCTYPE html>
 <html>
 <body>
+     <style>
+     .rihgtimg{
+           float: right;
+           marging: 7px 0 7px 7px;
+     }   
+     
+     
+     
+     
+     
+     
+     
+</style>     
+<pre><h1 syle="text-align: center;">                                         my Portofolio:
+<pre><h2>Name:  Nurik</h2></pre>
+<pre><h2>Info: I live in Bishkek. 17 years old</h2></pre>                  
+<pre><h2>Phone number: 0558559989</h2></pre>
+<img src="index.jpg" alt="">
 
-<p>I am normal</p>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
-
+<pre><h1;">
 </body>
 </html>
